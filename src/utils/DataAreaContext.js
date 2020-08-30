@@ -4,4 +4,4 @@ const DataAreaContext = React.createContext({
 
 });
 
-export default Data;
+export default DataAreaContext;
